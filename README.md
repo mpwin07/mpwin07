@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Prawin (Win) 👋</h1>
+<h1 align="center">Hi, I’m Prawin👋</h1>
 <h3 align="center">
 Software Engineering Student · ML & Web Projects · Problem Solver
 </h3>
