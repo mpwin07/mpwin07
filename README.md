@@ -40,21 +40,10 @@
 - Data Structures & Algorithms  
 - Scalable Software Systems  
 
----
-
-## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mpwin07&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpwin07&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mpwin07&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpwin07&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
----
-
-## 🐍 Contribution Graph  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mpwin07/mpwin07/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 ## 🎯 Goals  
