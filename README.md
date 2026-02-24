@@ -2,10 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Prawin%20M&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-
-<h1 align="center">Hi, I'm Prawin 👋</h1>
-<h3 align="center">Aspiring Software Engineer | Machine Learning | Full-Stack Developer</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver;Building+Scalable+Systems" />
 </p>
