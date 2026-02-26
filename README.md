@@ -19,7 +19,7 @@
       📄 <b>Checkout: <a href="https://drive.google.com/file/d/1BT3z9GSstyiUH5X3D6ftpjItQimR2vrW/view?usp=sharing">Resume.pdf</a></b>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2bzJpZjBqZzBqZzBqZzBqZzBqZzBqZzBqZzBqZzBqZzBqZzAmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/YQ4Dy8TGXirI3SR5vX/giphy.gif" width="280" alt="After Hours Glitch" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xqZ3J2aXZqMTVpMmUxdDAxa3F5NDcwejRwNXk3bTVuMGlxZXkyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KB7Moe2Oj0BXeDjvDp/giphy.gif" width="280" alt="After Hours Glitch" />
     </td>
   </tr>
 </table>
