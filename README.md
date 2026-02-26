@@ -1,115 +1,59 @@
-<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Prawin%20M&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver;Building+Scalable+Systems" />
+<img src="https://capsule-render.vercel.app/render?type=glitch&text=PRAWIN%20M&fontSize=70&fontAlignY=40&color=eb0000&background=000000&animation=twinkling" />
 </p>
 
----
-
-## 🔥 About Me
-
-🎓 Electronics and Communication Engineering Graduate  
-💻 Passionate about **Software Development, Machine Learning, and Web Technologies**  
-🔭 Currently building **Full-Stack Applications & ML Projects**  
-🌱 Learning **Data Structures & Algorithms, System Design, and Advanced ML**  
-
-📫 **Email:** itz.mpwin07@gmail.com  
-📄 **LinkedIn:** https://www.linkedin.com/in/prawin-m-a10587290/  
-
-⚡ Big fan of **The Weeknd** — good music, cleaner logic  
-
----
-
-## 🧠 Tech Stack
-
-<table align="center">
-<tr>
-<td align="center"><b>💻 Languages</b></td>
-<td align="center"><b>🌐 Frontend</b></td>
-<td align="center"><b>⚙️ Backend</b></td>
-<td align="center"><b>🤖 ML / Data</b></td>
-<td align="center"><b>🛢️ Databases</b></td>
-<td align="center"><b>🛠️ Tools</b></td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mpwin07&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpwin07&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/f6Vv6IuX96M9m/giphy.gif" width="300" alt="The Weeknd Animation" />
 </p>
 
----
-
-## 🚀 Areas of Interest
-
-- Full-Stack Web Development  
-- Machine Learning & AI  
-- Backend Development  
-- Data Structures & Algorithms  
-- Scalable Software Systems  
-
----
-
-## 🎯 Goals
-
-- Build production-level full-stack systems  
-- Develop real-world ML applications  
-- Contribute to open source  
-- Secure a Software Engineering role in a product-based company  
-
----
-
-<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer"/>
+<b>"Good music, cleaner logic."</b> — <i>Electronics Engineer turned Full-Stack Architect</i>
+</p>
+
+🎧 Currently Spun by the Algorithm
+<p align="center">
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312nmerya56csyn3pkmulmgmrtpu&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312nmerya56csyn3pkmulmgmrtpu&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark" width="400" />
+</a>
+</p>
+
+⚡ The Quick Scan
+🎓 Background: ECE Graduate (Hardware heart, Software soul)
+
+🚀 Current Flux: Building production-level Full-Stack & ML systems
+
+🌱 The Grind: DSA, System Design, and Scalable Architectures
+
+🔭 Key Projects: AquaListen (Acoustic AI), Elevate AI (Skill-Gap Analysis)
+
+🧠 The Tech Arsenal
+💻 Core Languages & Web
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,nextjs,tailwind&perline=5" />
+</p>
+
+⚙️ Backend & Machine Learning
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,pytorch,tensorflow,sklearn,pandas,numpy&perline=4" />
+</p>
+
+🛢️ Infrastructure & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode,postman,figma&perline=4" />
+</p>
+
+📈 Real-Time Telemetry (GitHub Stats)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mpwin07&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpwin07&layout=compact&theme=radical&hide_border=true" width="41%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mpwin07&theme=radical&hide_border=true" width="90%" />
+</p>
+
+🛰️ Reach Out
+<p align="left">
+<a href="mailto:itz.mpwin07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/prawin-m-a10587290/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
