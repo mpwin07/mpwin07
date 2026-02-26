@@ -86,6 +86,8 @@
   <img src="https://raw.githubusercontent.com/mpwin07/mpwin07/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
+---
+
 ## 🛰️ Transmission Channels
 <p align="center">
   <a href="mailto:itz.mpwin07@gmail.com">
