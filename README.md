@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver;Building+Scalable+Systems" />
 </p>
 
-
+---
 ## ⚡ System Overview
 
 <table align="center" border="0">
@@ -15,15 +15,16 @@
       <br>
       🎓 <b>Background:</b> Electronics and Communication Engineering Graduate <br><br>
       🚀 <b>Current Flux:</b> Building production-level Full-Stack & ML systems <br><br>
-      🌱 <b>The Grind:</b> Mastered DSA, exploring System Design & Scalable Architectures <br><br><br>
-      📄 <b>Checkout: <a href="https://drive.google.com/file/d/1BT3z9GSstyiUH5X3D6ftpjItQimR2vrW/view?usp=sharing">my resume.pdf</a></b>
+      🌱 <b>The Grind:</b> Mastered DSA, exploring System Design & Scalable Architectures <br><br>
+      📄 <b>Checkout: <a href="https://drive.google.com/file/d/1BT3z9GSstyiUH5X3D6ftpjItQimR2vrW/view?usp=sharing">Resume.pdf</a></b>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRreXJ4Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/hp3fI4rB7nN8587J4R/giphy.gif" width="280" alt="Blinding Lights Laugh" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2bzJpZjBqZzBqZzBqZzBqZzBqZzBqZzBqZzBqZzBqZzBqZzAmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/YQ4Dy8TGXirI3SR5vX/giphy.gif" width="280" alt="After Hours Glitch" />
     </td>
   </tr>
 </table>
 
+---
 ## 🧠 Technical Arsenal
 
 <table align="center">
