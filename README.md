@@ -58,9 +58,6 @@
 
 ## 📊 System Telemetry
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mpwin07&theme=radical&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mpwin07&theme=react-dark&bg_color=000000&color=eb0000&line=eb0000&point=ffffff&hide_border=true" width="100%" />
@@ -88,7 +85,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mpwin07/mpwin07/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
-
 ---
 
 ## 🛰️ Transmission Channels
