@@ -15,7 +15,7 @@
       <br>
       🎓 <b>Background:</b> Electronics and Communication Engineering Graduate <br><br>
       🚀 <b>Current Flux:</b> Building production-level Full-Stack & ML systems <br><br>
-      🌱 <b>The Grind:</b> Mastered DSA, exploring System Design & Scalable Architectures <br><br>
+      🌱 <b>The Grind:</b> Mastering DSA, exploring ML Algorithms & Architectures <br><br>
       📄 <b>Checkout: <a href="https://drive.google.com/file/d/1BT3z9GSstyiUH5X3D6ftpjItQimR2vrW/view?usp=sharing">Resume.pdf</a></b>
     </td>
     <td width="40%" align="center">
