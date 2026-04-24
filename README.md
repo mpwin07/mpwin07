@@ -16,7 +16,7 @@
       🎓 <b>Background:</b> Electronics and Communication Engineering Graduate <br><br>
       🚀 <b>Current Flux:</b> Building production-level Full-Stack & ML systems <br><br>
       🌱 <b>The Grind:</b> Mastering DSA, exploring ML Algorithms & Architectures <br><br>
-      📄 <b>Checkout: <a href="https://drive.google.com/file/d/1BT3z9GSstyiUH5X3D6ftpjItQimR2vrW/view?usp=sharing">Resume.pdf</a></b>
+      📄 <b>Checkout: <a href="https://drive.google.com/file/d/1gUaFoImIyCikregHWLza_zxGT9_a_b9d/view?usp=sharing">Resume.pdf</a></b>
     </td>
     <td width="40%" align="center">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xqZ3J2aXZqMTVpMmUxdDAxa3F5NDcwejRwNXk3bTVuMGlxZXkyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KB7Moe2Oj0BXeDjvDp/giphy.gif" width="280" alt="After Hours Glitch" />
