@@ -101,13 +101,6 @@
 
 
 ---
-
-## 🎧 Track
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312nmerya56csyn3pkmulmgmrtpu&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312nmerya56csyn3pkmulmgmrtpu&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark" />
-  </a>
-</p>
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer"/>
