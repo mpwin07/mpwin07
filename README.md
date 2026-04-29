@@ -6,20 +6,55 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Building+Scalable+Systems" />
 </p>
 
-
 ## ⚡ System Overview
 
 <table align="center" border="0">
   <tr>
-    <td width="60%" align="left" style="vertical-align: top;">
-      <br>
-      🎓 <b>Background:</b> Electronics and Communication Engineering Graduate <br><br>
-      🚀 <b>Current Flux:</b> Building production-level Full-Stack & ML systems <br><br>
-      🌱 <b>The Grind:</b> Mastering DSA, exploring ML Algorithms & Architectures <br><br>
-      📄 <b>Checkout: <a href="https://drive.google.com/file/d/1gUaFoImIyCikregHWLza_zxGT9_a_b9d/view?usp=sharing">Resume.pdf</a></b>
+    <td width="60%" align="left" style="vertical-align: top; padding-right: 20px;">
+
+### 👤 Who I Am
+
+I build systems that don’t just work — they **solve something real**.  
+From full-stack apps to ML-based solutions, I focus on making tech useful, not just impressive.
+
+🎓 Electronics & Communication Engineering  
+💻 Full Stack + Machine Learning  
+🧠 Strong focus on DSA & problem solving  
+
+📄 <a href="https://drive.google.com/file/d/1gUaFoImIyCikregHWLza_zxGT9_a_b9d/view?usp=sharing"><b>Resume</b></a>
+
+---
+
+### ⚙️ What I’m Doing Now
+
+- Building scalable, real-world applications  
+- Exploring ML models beyond theory  
+- Practicing DSA with consistency  
+- Working on impactful project ideas  
+
+---
+
+### 🧩 Philosophy
+
+> Clean logic > fancy tech  
+> Real impact > hype projects  
+
     </td>
+
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xqZ3J2aXZqMTVpMmUxdDAxa3F5NDcwejRwNXk3bTVuMGlxZXkyOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KB7Moe2Oj0BXeDjvDp/giphy.gif" width="280" alt="After Hours Glitch" />
+
+### 🧠 Current Focus
+
+Full Stack Development  
+Machine Learning  
+System Design  
+
+---
+
+### 🚀 Goal
+
+To build systems that people actually **use**, not just showcase.
+
     </td>
   </tr>
 </table>
