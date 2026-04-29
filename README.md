@@ -8,58 +8,36 @@
 
 ## ⚡ System Overview
 
-<table align="center" border="0">
+<table align="center" border="0" width="100%" style="text-align: center;">
+
   <tr>
-    <td width="60%" align="left" style="vertical-align: top; padding-right: 20px;">
+    <th>👤 Who I Am</th>
+    <th>⚙️ What I’m Doing</th>
+    <th>🚀 Goal</th>
+  </tr>
 
-### 👤 Who I Am
-
-I build systems that don’t just work — they **solve something real**.  
-From full-stack apps to ML-based solutions, I focus on making tech useful, not just impressive.
-
-🎓 Electronics & Communication Engineering  
-💻 Full Stack + Machine Learning  
-🧠 Strong focus on DSA & problem solving  
-
-📄 <a href="https://drive.google.com/file/d/1gUaFoImIyCikregHWLza_zxGT9_a_b9d/view?usp=sharing"><b>Resume</b></a>
-
----
-
-### ⚙️ What I’m Doing Now
-
-- Building scalable, real-world applications  
-- Exploring ML models beyond theory  
-- Practicing DSA with consistency  
-- Working on impactful project ideas  
-
----
-
-### 🧩 Philosophy
-
-> Clean logic > fancy tech  
-> Real impact > hype projects  
-
+  <tr>
+    <td>
+      🎓 ECE Graduate <br><br>
+      💻 Full Stack Developer <br><br>
+      🤖 Interested in ML & real-world systems <br><br>
+      🧠 Strong in problem solving & logic
     </td>
-
-    <td width="40%" align="center">
-
-### 🧠 Current Focus
-
-Full Stack Development  
-Machine Learning  
-System Design  
-
----
-
-### 🚀 Goal
-
-To build systems that people actually **use**, not just showcase.
-
+    <td>
+      🛠️ Building production-level web apps <br><br>
+      📊 Exploring ML models & architectures <br><br>
+      📚 Practicing DSA consistently <br><br>
+      🔥 Working on impactful projects
+    </td>
+    <td>
+      🎯 Crack product-based company roles <br><br>
+      ⚡ Build scalable & efficient systems <br><br>
+      🌍 Solve real-world problems with tech <br><br>
+      📈 Grow in System Design & ML
     </td>
   </tr>
 </table>
 
----
 ## 🧠 Technical Arsenal
 
 <table align="center">
@@ -89,7 +67,6 @@ To build systems that people actually **use**, not just showcase.
   </tr>
 </table>
 
----
 
 ## 📊 System Telemetry
 
@@ -121,7 +98,7 @@ To build systems that people actually **use**, not just showcase.
   <img src="https://raw.githubusercontent.com/mpwin07/mpwin07/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
----
+
 
 ## 🛰️ Transmission Channels
 <p align="center">
@@ -135,7 +112,6 @@ To build systems that people actually **use**, not just showcase.
 </p>
 
 
----
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer"/>
